@@ -1,10 +1,3 @@
-//
-//  Audio.cpp
-//  MyFruit
-//
-//  Created by student on 16/2/25.
-//
-//
 
 #include "Audio.h"
 #include "SimpleAudioEngine.h"
