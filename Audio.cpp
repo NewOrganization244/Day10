@@ -1,4 +1,4 @@
-
+//在A分支进行了对饮的修改
 #include "Audio.h"
 #include "SimpleAudioEngine.h"
 using namespace CocosDenshion;
